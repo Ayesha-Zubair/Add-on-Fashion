@@ -6,7 +6,7 @@ import { BrowserRouter } from 'react-router-dom';
 import reportWebVitals from './reportWebVitals';
 import { UserProvider } from './contexts/user.context';
 import { ProductsProvider } from './contexts/products.context';
-import { CartContext, CartProvider } from './contexts/cart.context';
+import { CartProvider } from './contexts/cart.context';
 
 const rootElement = document.getElementById('root');
 
