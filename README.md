@@ -20,7 +20,7 @@ More features is being added weekly, as more work needs to be done.
    
 ## Home Page
 <kbd>
-<img src="https://user-images.githubusercontent.com/86261638/189939691-2c596f57-7305-48e6-8897-2bc88e3db696.png" />
+<img src="https://user-images.githubusercontent.com/86261638/189963233-9c5ad767-775a-4370-8059-f27319634ff4.png" />
 </kbd>
 
 ## Shop Page
