@@ -1,5 +1,5 @@
 # Add-On-Fashion
-Add-On-Fashion is an e-commerce application build using React and firebase.
+Add-On-Fashion is an e-commerce application built using React and firebase.
 ### Website Link : [Add-On-Fashion](https://add-on-fashion.netlify.app/)
 ### Work In Progress
 More features will be added to this application.
