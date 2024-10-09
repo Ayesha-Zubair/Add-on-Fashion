@@ -15,6 +15,7 @@ import {
   LogoContainer,
   NavLinks,
   NavLink,
+  AppNameContainer
 } from './navigation.styles';
 
 const Navigation = () => {
@@ -24,9 +25,12 @@ const Navigation = () => {
   return (
     <Fragment>
       <NavigationContainer>
-        <LogoContainer to='/'>
-          <AppLogo />
-        </LogoContainer>
+        <AppNameContainer>
+          <LogoContainer to='/'>
+            <AppLogo />
+          </LogoContainer>    
+          <h1>Add on Fashion</h1>
+        </AppNameContainer>
         <NavLinks>
           <NavLink to='/shop'>SHOP</NavLink>
 
